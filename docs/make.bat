@@ -8,7 +8,7 @@ if "%SPHINXBUILD%" == "" (
 	set SPHINXBUILD=python -msphinx
 )
 set SOURCEDIR=source
-set BUILDDIR= ../website-deploy-gh-pages
+set BUILDDIR= ../../tisem-programming-group.github.io
 
 set SPHINXPROJ=programming-group-website
 
