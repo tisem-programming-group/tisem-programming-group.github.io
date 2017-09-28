@@ -3,12 +3,12 @@
 TiSEM Programming Group
 =======================
 
-still under construction!
+This website and repository is organized by the TiSEM Programming Group.
 
-About
------
+Please use this link to sign up:
 
-The first session is planned for Tuesday, 26 September 2017 at 15:00. We will get to know each other. Then we will present the outline for the next semester that we have in mind and discuss your feedback.
+https://goo.gl/forms/sOFJpAs9PRZ1yXiZ2
+
 
 .. toctree::
    :maxdepth: 1
