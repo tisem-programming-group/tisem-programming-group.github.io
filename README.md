@@ -1,2 +1,2 @@
 # tisem-programming-group.github.io
-reprository for website
+repository for website
